@@ -63,7 +63,7 @@
     </div>
     <div class="section signup">
       <div class="container">
-        <h3>Be one of the first to know more</h3>
+        <h3>Be the first to know more.</h3>
         <form action="/submit_email/" method="POST" id="email-form">
         {% csrf_token %}
           <div class="row">
@@ -75,6 +75,7 @@
               </div>
             </div>
         </form>
+        <h5 id="disclaimer">We'll only use your e-mail to send you relevant information about the product, never spam.</h5>
         <h4 id="thank-you">Thank you</h4>
       </div>
     </div>

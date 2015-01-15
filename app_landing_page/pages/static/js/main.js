@@ -33,5 +33,8 @@ function create_post() {
 };
 
 function thanks_fade_in() {
-    $("#thank-you").fadeIn(300);
+    $('#disclaimer').fadeOut(500, function callback() {
+        $("#thank-you").fadeIn(500);
+    });
+
 }
