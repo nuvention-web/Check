@@ -20,6 +20,7 @@ function create_post() {
         success : function(json) {
             $('#email-text').val(''); // remove the value from the input
             console.log(json); // log the returned json to the console
+            thanks_fade_in()
         },
 
         // handle a non-successful response
@@ -31,22 +32,6 @@ function create_post() {
     });
 };
 
-// AJAX CSRF resolution
-// using jQuery
-function getCookie(name) {
-    var cookieValue = null;
-    if (document.cookie && document.cookie != '') {
-        var cookies = document.cookie.split(';');
-        for (var i = 0; i < cookies.length; i++) {
-            var cookie = jQuery.trim(cookies[i]);
-            // Does this cookie string begin with the name we want?
-            if (cookie.substring(0, name.length + 1) == (name + '=')) {
-                cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
-                break;
-            }
-        }
-    }
-    return cookieValue;
+function thanks_fade_in() {
+    $("#thank-you").fadeIn(300);
 }
-
-var csrftoken = getCookie('csrftoken');

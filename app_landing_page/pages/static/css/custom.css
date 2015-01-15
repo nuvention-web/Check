@@ -65,13 +65,6 @@ body {
   margin-top: 6.5rem;
   text-align: center; }
 
-.submit-button {
-  background-color: #67E400 !important;
-  border: 1px solid #67E400 !important; }
-
-.email-input {
-  font-size: 1.6m; }
-
 /* Values
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .values {
@@ -97,6 +90,16 @@ body {
   clear: both;
   margin: 0 auto; }
 
-/*# sourceMappingURL=custom.css.map */
+/* Signup
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.submit-button {
+  background-color: #67E400 !important;
+  border: 1px solid #67E400 !important; }
+
+.email-input {
+  font-size: 1.6m; }
+
+#thank-you {
+  display: none; }
 
 /*# sourceMappingURL=custom.css.map */
