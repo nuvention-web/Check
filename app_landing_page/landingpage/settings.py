@@ -78,8 +78,9 @@ USE_L10N = True
 USE_TZ = True
 
 # Parse database configuration from $DATABASE_URL
-import dj_database_url
-DATABASES['default'] =  dj_database_url.config()
+# import dj_database_url
+# DATABASES = {}
+# DATABASES['default'] =  dj_database_url.config()
 # DATABASES['default']['ENGINE'] = 'django.db.backends.sqlite3'
 # DATABASES['default']['NAME'] = os.path.join(BASE_DIR, 'db.sqlite3')
 
