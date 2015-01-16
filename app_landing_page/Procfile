@@ -1,1 +1,1 @@
-web: gunicorn landingpage.wsgi --log-file -
+web: gunicorn landingpage.wsgi:application --log-file -
