@@ -57,20 +57,20 @@ WSGI_APPLICATION = 'landingpage.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/1.7/ref/settings/#databases
 
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.sqlite3', # Add 'postgresql_psycopg2', 'postgresql', 'mysql', 'sqlite3' or 'oracle'.
-        'NAME': 'landingpage.sqlite3',         # Or path to database file if using sqlite3.
-        'USER': '',                      # Not used with sqlite3.
-        'PASSWORD': '',                  # Not used with sqlite3.
-        'HOST': '',                      # Set to empty string for localhost. Not used with sqlite3.
-        'PORT': '',                      # Set to empty string for default. Not used with sqlite3.
-    }
-}
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.sqlite3', # Add 'postgresql_psycopg2', 'postgresql', 'mysql', 'sqlite3' or 'oracle'.
+#         'NAME': 'landingpage.sqlite3',         # Or path to database file if using sqlite3.
+#         'USER': '',                      # Not used with sqlite3.
+#         'PASSWORD': '',                  # Not used with sqlite3.
+#         'HOST': '',                      # Set to empty string for localhost. Not used with sqlite3.
+#         'PORT': '',                      # Set to empty string for default. Not used with sqlite3.
+#     }
+# }
 
-# import dj_database_url
-# DATABASES = {}
-# DATABASES['default'] =  dj_database_url.config()
+import dj_database_url
+DATABASES = {}
+DATABASES['default'] =  dj_database_url.config()
 
 # Internationalization
 # https://docs.djangoproject.com/en/1.7/topics/i18n/
