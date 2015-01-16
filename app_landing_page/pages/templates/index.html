@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <!-- Basic Page Needs
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta charset="utf-8">
+  <title>Item Name</title>
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link href='//fonts.googleapis.com/css?family=Raleway:400,300,600' rel='stylesheet' type='text/css'>
+
+  <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" href="/static/css/custom.css">
+  <link rel="stylesheet" href="/static/css/skeleton.css">
+
+
+  <!-- Scripts
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <script src="https://google-code-prettify.googlecode.com/svn/loader/run_prettify.js"></script>
+  <link rel="stylesheet" href="css/github-prettify-theme.css">
+  <script src="/static/js/main.js"></script>
+  <script src="/static/js/csrf.js"></script>
+  <script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
+
+</head>
+<body>
+  <div class="full-width-container">
+    <nav class="navbar">
+      <div class="container">
+        <div class="navbar-right">
+          <ul class="navbar-list">
+            <li class="navbar-item"><a href="#about">About</a></li>
+            <li class="navbar-item"><a href="#signup">Sign Up</a></li>
+            </ul>
+        </div>
+        </div>
+    </nav>
+    <div class="section header">
+      <h2>Know what your best friends are doing, right now.</h2>
+    </div>
+    <div class="section info">
+      <h3>Discover what's happening around you so you know the best place to be.</h3>
+      <div class="row">
+        <div class="four columns">
+          <h3>Private</h3>
+          <p class="value-text">Select the <strong>specific friends</strong> you want to share your location with for every event.</p>
+        </div>
+        <div class="four columns">
+          <h3>Immediate</h3>
+          <p class="value-text">Know the right place to be at <strong>any moment</strong></p>
+        </div>
+        <div class="four columns">
+          <h3>Faster</h3>
+          <p class="value-text"></p>
+        </div>
+      </div>
+    </div>
+    <div class="section signup" id="signup">
+      <div class="container">
+        <h3>Be the first to know more.</h3>
+        <form action="/submit_email/" method="POST" id="email-form">
+        {% csrf_token %}
+          <div class="row">
+            <div class="ten columns">
+                <input class="u-full-width email-input" type="email" placeholder="you@example.com" id="email-text">
+                </div>
+                <div class="two columns">
+                <input class="button submit-button" type="submit">
+              </div>
+            </div>
+        </form>
+        <h5 id="disclaimer">We'll only use your e-mail to send you relevant information about the product, never spam.</h5>
+        <h4 id="thank-you">Thank you</h4>
+      </div>
+    </div>
+    <div class="section about" id="about">
+    </div>
+  </div>
+</body>

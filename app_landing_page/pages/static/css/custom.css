@@ -1,0 +1,105 @@
+@charset "UTF-8";
+/* All
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+body {
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px; }
+
+/* Navbar
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  display: block;
+  width: 100%;
+  height: 6.5rem;
+  background: #fff;
+  z-index: 99;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #eee; }
+
+.navbar-right {
+  position: relative;
+  float: right; }
+
+.navbar-list {
+  list-style: none;
+  margin-bottom: 0; }
+
+.navbar-item {
+  position: relative;
+  float: left;
+  margin-bottom: 0;
+  margin-left: 10px; }
+
+.navbar-item a {
+  text-transform: uppercase;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: .2rem;
+  margin-left: 35px;
+  text-decoration: none;
+  line-height: 6.5rem;
+  color: #222; }
+
+/* Sections
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.section {
+  padding: 8rem 0 7rem;
+  height: 18rem;
+  text-align: center; }
+
+.section-heading,
+.section-description {
+  margin-bottom: 1.2rem; }
+
+/* Header
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.header {
+  background-image: url("/static/imgs/Northwestern_University_Evanston_campus_overlay.jpg");
+  background-size: cover;
+  background-color: #68CCDA;
+  margin-top: 6.5rem;
+  text-align: center; }
+
+/* Values
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.values {
+  background-image: url("../images/values-bg.jpg");
+  background-size: cover;
+  color: #fff;
+  padding-bottom: 5rem; }
+
+.value-multiplier {
+  margin-bottom: .5rem;
+  color: #11DFC7; }
+
+.value-heading {
+  margin-bottom: .3rem; }
+
+.value-description {
+  opacity: .8;
+  font-weight: 300; }
+
+.full-width-container {
+  width: 100%;
+  max-width: 100%;
+  clear: both;
+  margin: 0 auto; }
+
+/* Signup
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.submit-button {
+  background-color: #67E400 !important;
+  border: 1px solid #67E400 !important; }
+
+.email-input {
+  font-size: 1.6m; }
+
+#thank-you {
+  display: none; }
+
+/*# sourceMappingURL=custom.css.map */
