@@ -80,7 +80,8 @@ USE_TZ = True
 # Parse database configuration from $DATABASE_URL
 import dj_database_url
 DATABASES['default'] =  dj_database_url.config()
-DATABASES['default']['ENGINE'] = 'django.db.backends.postgresql_psycopg2'
+DATABASES['default']['ENGINE'] = 'django.db.backends.sqlite3'
+DATABASES['default']['NAME'] = os.path.join(BASE_DIR, 'db.sqlite3')
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.7/howto/static-files/
