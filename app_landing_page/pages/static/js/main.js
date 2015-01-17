@@ -19,12 +19,6 @@ $(document).ready(function() {
             $('#navbar-title').switchClass( "visible", "hidden", 1000, "easeInOutQuad" );
         }
     });
-
-    $('a[href^="#"]').on('click', function(event) {
-        event.preventDefault();
-        var target = $(this).attr('href');
-        $(this).smoothScroll();
-    });
 });
 
 // AJAX for posting

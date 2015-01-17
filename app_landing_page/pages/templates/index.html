@@ -30,7 +30,7 @@
   <link rel="stylesheet" href="css/github-prettify-theme.css">
   <script src="/static/js/csrf.js"></script>
   <script src="/static/js/jquery-ui.min.js"></script>
-  <script src="/static/js/smoothscroll.js"></script>
+  <script src="/static/js/smooth-scroll.min.js"></script>
   <script src="/static/js/main.js"></script>
 
 
@@ -41,13 +41,13 @@
       <div class="container">
         <div class="row">
           <div class="six columns">
-            <a href="/" class="hidden" id="navbar-title">Checkit</a>
+            <a data-scroll href="/" class="hidden" id="navbar-title">Checkit</a>
           </div>
           <div class="six columns">
             <div class="navbar-right">
               <ul class="navbar-list">
-                <li class="navbar-item"><a href="#values">About</a></li>
-                <li class="navbar-item"><a href="#signup">Sign Up</a></li>
+                <li class="navbar-item"><a data-scroll href="#values">About</a></li>
+                <li class="navbar-item"><a data-scroll href="#signup">Sign Up</a></li>
                 </ul>
             </div>
           </div>
@@ -105,4 +105,7 @@
   </div>
   <div class="footer">
   </div>
+  <script>
+    smoothScroll.init();
+  </script>
 </body>
