@@ -5,7 +5,7 @@
   <!-- Basic Page Needs
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <meta charset="utf-8">
-  <title>Item Name</title>
+  <title>Checkit</title>
   <meta name="description" content="">
   <meta name="author" content="">
 
@@ -28,45 +28,56 @@
   <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
   <script src="https://google-code-prettify.googlecode.com/svn/loader/run_prettify.js"></script>
   <link rel="stylesheet" href="css/github-prettify-theme.css">
-  <script src="/static/js/main.js"></script>
   <script src="/static/js/csrf.js"></script>
-  <script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
+  <script src="/static/js/jquery-ui.min.js"></script>
+  <script src="/static/js/smoothscroll.js"></script>
+  <script src="/static/js/main.js"></script>
+
 
 </head>
 <body>
   <div class="full-width-container">
     <nav class="navbar">
       <div class="container">
-        <div class="navbar-right">
-          <ul class="navbar-list">
-            <li class="navbar-item"><a href="#about">About</a></li>
-            <li class="navbar-item"><a href="#signup">Sign Up</a></li>
-            </ul>
+        <div class="row">
+          <div class="six columns">
+            <a href="/" class="hidden" id="navbar-title">Checkit</a>
+          </div>
+          <div class="six columns">
+            <div class="navbar-right">
+              <ul class="navbar-list">
+                <li class="navbar-item"><a href="#values">About</a></li>
+                <li class="navbar-item"><a href="#signup">Sign Up</a></li>
+                </ul>
+            </div>
+          </div>
         </div>
-        </div>
+      </div>
     </nav>
     <div class="section header">
-      <h2>Know what your best friends are doing, right now.</h2>
+      <p>Checkit</p>
     </div>
     <div class="section info">
-      <h3>Discover what's happening around you so you know the best place to be.</h3>
-      <div class="row">
-        <div class="four columns">
+      <h3 class="info-description">A location sharing app that lets you see where your friends are before you get there.</h3>
+    </div>
+    <div class="section values" id="values">
+      <div class="row value-row">
+        <div class="four columns value-div">
+          <h3>Easy</h3>
+          <div class="container">
+            <p class="value-text">Simply open Checkit to see which friends are nearby or drop a pin so others can see you.</p>  
+          </div>
+        </div>
+        <div class="four columns value-div">
           <h3>Private</h3>
           <div class="container">
-            <p class="value-text">Select the <strong>specific friends</strong> you want to share your location with for every event.</p>
+            <p class="value-text">Select only the <strong>specific friends</strong> you want to see your location for each event.</p>
           </div>
         </div>
-        <div class="four columns">
-          <h3>Immediate</h3>
+        <div class="four columns value-div">
+          <h3>Disappearing</h3>
           <div class="container">
-            <p class="value-text">Know the right place to be at <strong>any moment</strong></p>
-          </div>
-        </div>
-        <div class="four columns">
-          <h3>Faster</h3>
-          <div class="container">
-            <p class="value-text"></p>
+            <p class="value-text">Your location disappears as soon as the event is over or you leave.</p>
           </div>
         </div>
       </div>
@@ -86,10 +97,12 @@
             </div>
         </form>
         <h5 id="disclaimer">We'll only use your e-mail to send you relevant information about the product, never spam.</h5>
-        <h4 id="thank-you">Thank you</h4>
+        <h4 id="thank-you">Thanks!</h4>
       </div>
     </div>
-    <div class="section about" id="about">
-    </div>
+<!--     <div class="section about" id="about">
+    </div> -->
+  </div>
+  <div class="footer">
   </div>
 </body>

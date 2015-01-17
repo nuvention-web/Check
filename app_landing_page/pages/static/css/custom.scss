@@ -1,4 +1,10 @@
 @charset "UTF-8";
+
+$green-color: #67E400;
+$light-blue-color: #68CCDA;
+$medium-gray-color: #EDEDED;
+$light-gray-color: #EEEEEE;
+
 /* All
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 body {
@@ -6,6 +12,20 @@ body {
   margin-right: 0px;
   margin-bottom: 0px;
   margin-left: 0px; }
+
+.full-width-container {
+  width: 100%;
+  max-width: 100%;
+  clear: both;
+  margin: 0 auto; }
+
+.hidden {
+  visibility: hidden;
+}
+
+.visible {
+  visibility: visible;
+}
 
 /* Navbar
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -20,6 +40,10 @@ body {
   z-index: 99;
   border-top: 1px solid #eee;
   border-bottom: 1px solid #eee; }
+
+#navbar-title {
+    font-size: 4rem;
+    text-decoration: none; }
 
 .navbar-right {
   position: relative;
@@ -49,7 +73,8 @@ body {
 .section {
   padding: 8rem 0 7rem;
   height: 18rem;
-  text-align: center; }
+  text-align: center;
+  border-bottom: 1px solid $light-gray-color; }
 
 .section-heading,
 .section-description {
@@ -60,40 +85,46 @@ body {
 .header {
   background-image: url("/static/imgs/Northwestern_University_Evanston_campus_overlay.jpg");
   background-size: cover;
-  background-color: #68CCDA;
+  background-color: $light-blue-color;
   margin-top: 6.5rem;
-  text-align: center; }
+  text-align: center;
+  
+  p {
+    font-size: 7rem;
+  }
+
+ }
+
+/* Info
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
 
 /* Values
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .values {
-  background-image: url("../images/values-bg.jpg");
-  background-size: cover;
-  color: #fff;
-  padding-bottom: 5rem; }
 
-.value-multiplier {
-  margin-bottom: .5rem;
-  color: #11DFC7; }
+}
 
-.value-heading {
-  margin-bottom: .3rem; }
+.value-div {
+  h3 {
+    border-bottom: 1px solid white;
+  }
+}
 
-.value-description {
-  opacity: .8;
-  font-weight: 300; }
-
-.full-width-container {
-  width: 100%;
-  max-width: 100%;
-  clear: both;
-  margin: 0 auto; }
+.active-div {
+  h3 {
+    border-bottom: 1px solid $light-gray-color;
+  }
+}
 
 /* Signup
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
+.signup {
+  padding-bottom: 40rem;
+}
+
 .submit-button {
-  background-color: #67E400 !important;
-  border: 1px solid #67E400 !important; }
+  background-color: $green-color !important;
+  border: 1px solid $green-color !important; }
 
 .email-input {
   font-size: 1.6m; }
@@ -101,3 +132,16 @@ body {
 #thank-you {
   display: none;
 }
+
+/* Team
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.about {
+  background-color: $medium-gray-color;
+}
+
+/* Team
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.footer {
+  background-color: $medium-gray-color;
+}
+
