@@ -20,10 +20,9 @@ $(document).ready(function() {
         }
     });
 
-    $('a[href^="#"]').on('click', function(event) {
-        event.preventDefault();
-        var target = $(this).attr('href');
+    $('a[href^="#"]').on('click', function(event) {        
         $(this).smoothScroll();
+        event.preventDefault();
     });
 });
 
