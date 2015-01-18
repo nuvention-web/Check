@@ -109,6 +109,9 @@ body {
 #thank-you {
   display: none; }
 
+#error {
+  display: none; }
+
 /* Team
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .about {
