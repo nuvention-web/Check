@@ -1,7 +1,11 @@
 $(document).ready(function() {
     $('#email-form').on('submit', function(event){
         event.preventDefault();
-        create_post();
+        if ($('#email-form').value != undefined) {
+            create_post();
+        } else {
+            error_fade_in()
+        }
     });
 
     $('.value-div').hover(function() {
@@ -57,4 +61,10 @@ function thanks_fade_in() {
         $("#thank-you").fadeIn(500);
     });
 };
+
+function error_fade_in() {
+    $('#disclaimer').fadeOut(500, function() {
+        $("#error").fadeIn(500);
+    });   
+}
 
