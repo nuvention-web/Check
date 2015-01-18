@@ -1,4 +1,9 @@
 from django.contrib import admin
-from pages.models import Email
+from django import forms
+from django.contrib.auth.forms import UserCreationForm, UserChangeForm
+from django.contrib.auth.admin import UserAdmin as AuthUserAdmin
+from models import *
 
 admin.site.register(Email)
+
+

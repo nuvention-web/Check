@@ -19,6 +19,11 @@ $(document).ready(function() {
             $('#navbar-title').switchClass( "visible", "hidden", 1000, "easeInOutQuad" );
         }
     });
+
+    $('a[href^="#"]').on('click', function(event) {        
+        $(this).smoothScroll();
+        event.preventDefault();
+    });
 });
 
 // AJAX for posting
