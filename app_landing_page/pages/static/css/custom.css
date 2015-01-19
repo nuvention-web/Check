@@ -53,7 +53,11 @@ body {
 
 .navbar-item a {
   text-transform: uppercase;
+<<<<<<< HEAD
   font-size: 11px;
+=======
+  font-size: 10px;
+>>>>>>> ea194477e3c7a4172bd744165b19e0b4ba48938c
   font-weight: 600;
   letter-spacing: .2rem;
   margin-left: 35px;
@@ -101,7 +105,8 @@ body {
 
 .submit-button {
   background-color: #67E400 !important;
-  border: 1px solid #67E400 !important; }
+  border: 1px solid #67E400 !important;
+  font-size: 10px; }
 
 .email-input {
   font-size: 1.6m; }
