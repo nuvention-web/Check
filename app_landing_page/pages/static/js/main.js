@@ -59,6 +59,10 @@ function create_post() {
 };
 
 function thanks_fade_in() {
+    $('#error').fadeOut(500, function() {
+        $('#thank-you').fadeIn(500);
+    });
+    
     $('#disclaimer').fadeOut(500, function() {
         $("#thank-you").fadeIn(500);
     });
