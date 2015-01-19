@@ -1,10 +1,12 @@
 $(document).ready(function() {
     $('#email-form').on('submit', function(event){
         event.preventDefault();
-        if ($('#email-form').value != undefined) {
-            create_post();
+        var x = document.getElementById('email-text').value
+        console.log(x);
+        if (x == null || x == "") {
+           error_fade_in()
         } else {
-            error_fade_in()
+            create_post()
         }
     });
 
@@ -57,6 +59,10 @@ function create_post() {
 };
 
 function thanks_fade_in() {
+    $('#error').fadeOut(500, function() {
+        $('#thank-you').fadeIn(500);
+    });
+    
     $('#disclaimer').fadeOut(500, function() {
         $("#thank-you").fadeIn(500);
     });
