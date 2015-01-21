@@ -71,6 +71,6 @@ function thanks_fade_in() {
 function error_fade_in() {
     $('#disclaimer').fadeOut(500, function() {
         $('#error').fadeIn(500);
-    })
+    });
 }
 

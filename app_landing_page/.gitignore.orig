@@ -1,0 +1,15 @@
+*.pyc
+<<<<<<< HEAD
+venv
+*.sqlite3
+#.sqlite
+=======
+<<<<<<< HEAD
+*.sqlite3
+venv
+=======
+venv
+*.sqlite3
+#.sqlite
+>>>>>>> ea194477e3c7a4172bd744165b19e0b4ba48938c
+>>>>>>> heroku/master
