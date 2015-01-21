@@ -1,12 +1,10 @@
 $(document).ready(function() {
     $('#email-form').on('submit', function(event){
         event.preventDefault();
-        var x = document.getElementById('email-text').value
-        console.log(x);
-        if (x == null || x == "") {
-           error_fade_in()
+        if ($('#email-form').value != undefined) {    
+            create_post();
         } else {
-            create_post()
+            error_fade_in();
         }
     });
 
@@ -64,13 +62,13 @@ function thanks_fade_in() {
     });
     
     $('#disclaimer').fadeOut(500, function() {
-        $("#thank-you").fadeIn(500);
+        $('#thank-you').fadeIn(500);
     });
 };
 
 function error_fade_in() {
     $('#disclaimer').fadeOut(500, function() {
-        $("#error").fadeIn(500);
-    });   
+        $('#error').fadeIn(500);
+    })
 }
 
