@@ -1,10 +1,12 @@
 $(document).ready(function() {
     $('#email-form').on('submit', function(event){
         event.preventDefault();
-        if ($('#email-form').value != undefined) {    
-            create_post();
+        var x = document.getElementById('email-text').value
+        console.log(x);
+        if (x == null || x == "") {
+           error_fade_in()
         } else {
-            error_fade_in();
+            create_post()
         }
     });
 
