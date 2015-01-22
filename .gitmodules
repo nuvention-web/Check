@@ -1,3 +1,6 @@
 [submodule "CheckItiOS"]
 	path = CheckItiOS
 	url = https://github.com/anderoonies/CheckItiOS.git
+[submodule "CheckItWeb"]
+	path = CheckItWeb
+	url = https://github.com/anderoonies/CheckItWeb.git
