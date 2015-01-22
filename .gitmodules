@@ -1,0 +1,3 @@
+[submodule "CheckItiOS"]
+	path = CheckItiOS
+	url = https://github.com/anderoonies/CheckItiOS.git
