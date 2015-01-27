@@ -10,6 +10,8 @@ Check is a selective real-time location sharing iOS application that will allow 
 - Designer — Tzu-Hsing Chen
 - Content — Zoe Yang
 
-[CheckItiOS]
-[CheckItWeb]
+
+## Submodules
+* [CheckItiOS](https://github.com/anderoonies/CheckItiOS/)
+* [CheckItWeb](https://github.com/anderoonies/CheckItWeb/)
 
