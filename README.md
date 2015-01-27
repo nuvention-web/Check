@@ -1,4 +1,4 @@
-# [Check]
+#Check
 
 Check is a selective real-time location sharing iOS application that will allow you and your friends to easily see each other.
 
@@ -9,4 +9,7 @@ Check is a selective real-time location sharing iOS application that will allow 
 - Business — Yuan Geng
 - Designer — Tzu-Hsing Chen
 - Content — Zoe Yang
+
+[CheckItiOS]
+[CheckItWeb]
 
