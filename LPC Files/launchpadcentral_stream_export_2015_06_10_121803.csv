@@ -1,0 +1,198 @@
+date,title, body, key insights, type, canvas tag, hypotheses feedback
+2015-06-04,"Email with Stranger, Undergraduate Student, Northwestern University",Not quite understand that the ketch I created can be moved to somewhere else instead of the location I am here now at the first time.,Would be nice to have guideline for how this app works to create a ketch at the first time.,Customer Interview,,College students; Design simple interface
+2015-06-04,"Email with Stranger, Undergraduate Student, Northwestern University","All of the dots look the same, would be better to have different icons instead of just dots with names on the map so that it would be easy to know what are those dots without click on each dots to check",Would like to have different icons for different kinds of event,Customer Interview,,College students
+2015-06-05,"In Person Meeting with Stranger, Undergraduate Student, Northwestern University",Can invite friends easily even though some friends haven't had this app within the add friends feature.,Easy to invite friends to use this app.,Customer Interview,,College students; Gain large foothold in existing student groups
+2015-06-05,"In Person Meeting with Stranger, Undergraduate Student, Northwestern University",Grouping feature is convenient for inviting many friends for big events,Like the grouping feature,Customer Interview,,College students
+2015-06-08,"In Person Meeting with Wesly, Student, Northwestern","Feels that sometimes when creating 30-min event, the app disappears in 5 minute or displays wrong time","​Feels that sometimes when creating 30-min event, the app disappears in 5 minute or displays wrong time",Customer Interview,,College students; Design simple interface
+2015-06-02,"In Person Meeting with Christina, Student, Northwestern","Does not like the GPS, the pin always drops the dot on the wrong location (not where they are) and at first they didn't know they were suppose to move the dotWant to get more nudges",Desire of getting nudges,Customer Interview,,College students; App Store
+2015-06-08,"In Person Meeting with Shelly, Student, Northwestern","Confused on getting updates about the appLove the nudge feature
+
+Want more interaction",Love the nudge feature and want more interaction,Customer Interview,,College students; App Store
+2015-05-29,"In Person Meeting with Stella, Student, Northwestern",Not enough users on the app.especially useful in the afternoon time frame,Useful for afternoon time frame,Customer Interview,,App Store
+2015-06-08,App Store,,,Business Model Hypothesis,Channels,
+2015-06-02,Ketch Presentation 06/02/2015,,,Team Presentation,,
+2015-05-18,Young Professionals,,,Business Model Hypothesis,Customer Segments,
+2015-05-12,White labeling for events,,,Business Model Hypothesis,Revenue Streams,
+2015-04-23,Phone Call with Nikhil Sethi,"Is it a problem people are willing to pay for? How to monetize it:
+add-on feature.personalization.emotion icon.central ecosystem for friends.Expanding the target to single professional peopleCommunity feature (don't really know each other, just have the same passion, ex Bulls’ fan)Presence of personal status (ex. do not disturb, welcome to interrupt)App Personalization & Widget","Expanding the target to single professional people.
+Community feature (don't really know each other, just have the same passion, ex Bulls’ fan).",Mentor Engagement,,College students; Existing social structures at NU; Interact meaningfully in the real world; Gain large foothold in existing student groups; student associations; Local business ads
+2015-04-17,"In Person Meeting with Kate Ritter, Student, Northwestern","I was having a lunch meeting with some writers and ran into Kate, another writer. She said that if she had been using the app and seen the event she would have definitely joined.",Kate would use the app to plan lunches—just as the one where I talked to her.,Customer Interview,Value Propositions,Interact meaningfully in the real world
+2015-04-21,Ketch Presentation 04/21/2015,,,Team Presentation,,
+2015-04-18,Local business ads,,,Business Model Hypothesis,Revenue Streams,
+2015-04-18,Premium/Paid features,,,Business Model Hypothesis,Revenue Streams,
+2015-04-18,Testing users recruting,,,Business Model Hypothesis,Cost Structure,
+2015-04-18,Marketing/Promoting,,,Business Model Hypothesis,Cost Structure,
+2015-04-18,Third party component/tool,,,Business Model Hypothesis,Cost Structure,
+2015-04-14,Metric #2 - Events posted per week,,,Business Model Hypothesis,Value Propositions,
+2015-04-14,Metric #1 - Active users per week,,,Business Model Hypothesis,Value Propositions,
+2015-04-13,the leader of student associations,,,Business Model Hypothesis,Key Partners,
+2015-04-13,student associations,,,Business Model Hypothesis,Customer Segments,
+2015-04-07,Web hosting,,,Business Model Hypothesis,Cost Structure,
+2015-04-07,Development time/salary,,,Business Model Hypothesis,Cost Structure,
+2015-04-07,Enforce image of privacy,,,Business Model Hypothesis,Customer Relationships,
+2015-04-07,Gain large foothold in existing student groups,,,Business Model Hypothesis,Key Activities,
+2015-04-07,Design simple interface,,,Business Model Hypothesis,Key Activities,
+2015-04-07,User acquisition,,,Business Model Hypothesis,Cost Structure,
+2015-04-07,Interact meaningfully in the real world,,,Business Model Hypothesis,Value Propositions,
+2015-04-07,TestFlight Beta testing through existing hierarchies/groups,,,Business Model Hypothesis,Channels,
+2015-04-07,Sorority social leaders,,,Business Model Hypothesis,Customer Relationships,
+2015-04-07,Existing social structures at NU,,,Business Model Hypothesis,Key Resources,
+2015-04-07,Sports team leaders,,,Business Model Hypothesis,Key Partners,
+2015-04-07,Sorority social leaders,,,Business Model Hypothesis,Key Partners,
+2015-04-06,"In Person Meeting with Alissa, Student, Northwestern",Just because you see someone on the map doesn't mean you'll instantly be okay meeting with them—understanding the nature of the event is important.Sororities are a big use case.,"A sorority is a big use case for the product, but blurbs would help.",Customer Interview,Customer Segments,Sorority
+2015-04-06,"In Person Meeting with ‎Geirþrúður (Anna), Student, Northwestern",Anna felt that the product is especially useful for music students who are close to Norris.Was worried about being able to identify locations topographically.,This product is valuable for music students.,Customer Interview,Customer Segments,College students; Music students
+2015-04-06,Music students,,,Business Model Hypothesis,Customer Segments,
+2015-04-06,"In Person Meeting with Russell H., Student, Northwestern","User liked the UI, felt strongly about the use cases.Pressing the annotation callout button was not intuitive.",Map should show annotations on edges for users not contained in the frame,Customer Interview,Value Propositions,Protect their privacy with ephemeral data history
+2015-03-31,Ketch Presentation 03/31/2015,,,Team Presentation,,
+2015-03-16,Protect their privacy with ephemeral data history,,,Business Model Hypothesis,Value Propositions,
+2015-03-16,College students,,,Business Model Hypothesis,Customer Segments,
+2015-03-16,Sorority,,,Business Model Hypothesis,Customer Segments,
+2015-03-16,Sports team in college,,,Business Model Hypothesis,Customer Segments,
+2015-03-03,Ketch Presentation 03/03/2015,,,Team Presentation,,
+2015-03-02,"In Person Meeting with Liang. Y., Graduate Student, Northwestern University","From the green dots, how do I know what they are up to? It just shows that they are free from what time to what time, but don't show what they are up to do. Can't really tell from those green dots.",How do I know those friends are up to?,Customer Interview,,
+2015-03-02,"In Person Meeting with Stranger, Graduate Student, Northwestern University","Interesting idea, but how can people make sure the person who created the event is already at that destination? For example, if someone created an event at Norris, but that person is just about to leave from Tech to Norris, and that event lasts for 1 hour. At that time if someone is at Norris and saw this event and want to join, but found out that person hasn't arrived. How does this app solve the problem like this?",How do I make sure the person who created the event is already at that destination?,Customer Interview,,
+2015-02-24,"In Person Meeting with Mike, Student, Northwestern",Knowing the type of event is important in making the decision on whether or not to go.,Information about event type is important.,Customer Interview,Value Propositions,
+2015-02-24,"Video Chat with A.T., Student, Cornello",The presence of a circle on the map is currently unclear—should I go to this person or should they come to me.A small blurb associated with the event would help this.,"Iconography is ambiguous, information about event type is paramount",Customer Interview,Value Propositions,
+2015-02-24,"Email with JS, Graduate Student, Northwestern University",If the app can notify people when some close friends post events on the map would be good,Would like to have notification if some close friends post an event on the map,Customer Interview,,
+2015-02-23,"Email with Liya, Graduate student, Northwestern University","Hope when she creates event, app can automatically shows who is available in the same time slot.",Wants to have match-up feature,Customer Interview,,
+2015-02-23,"Email with Wan-Ting, Graduate student, Northwestern University","It will be good if the app can recommend nearby hangout places,Want to plan event ahead and have notification feature",Hopes the app can recommend hangout place nearby,Customer Interview,,
+2015-02-13,"In Person Meeting with Shuan, Graduate student, Northwestern University","Wants to have ""tinder for lunch"" kind of feature","Wants to have ""tinder for lunch"" kind of feature",Customer Interview,,
+2015-02-23,"In Person Meeting with BW, Graduate Student, Northwestern University","Don't want to check every green dots to find a particular friend that I am looking for right now, would be better to have a search feature to find that person is on the map or not",Would like to have a search friends feature for searching a particular friend on the map without checking every green dots on the map,Customer Interview,,
+2015-02-23,"In Person Meeting with HYT, Graduate Student, Northwestern University",Sometimes not only want to hang out with friends but also chat with them before they meet or something happen that needs to notify the person who create the activity,Would like to have texting feature within the app,Customer Interview,,
+2015-02-23,"In Person Meeting with Stranger, Graduate Student, Northwestern University","Would like to see a particular activity on the map, not showing all kinds of activities.",Would like to have a feature that people can select which activity categories they want to see on the map,Customer Interview,,
+2015-02-22,"In Person Meeting with Hao Zhou, Graduate Student, Northwestern University",Would like to see who the person is on the map without checking on each dots on the map,"If there are too many friends on the map, don't want to tap on every green dots to see who that person is",Customer Interview,,
+2015-02-12,"In Person Meeting with Gan, Undergraduate Students, Northwestern University","Thinks campus event right now are mostly invited via FB, but not everyone will get invitation.If there is a feature that shows recent campus event on the map will solve the problem.",Wants to see public campus event on the map,Customer Interview,,
+2015-02-16,"In Person Meeting with Student, Student, Kellogg","I think this is a user who is so busy, he doesn't have time to do this multiple times a day. He doesn't want automatically sharing free times based on his calendar as a default, but he wants to be able to plan his free times (and who to share with) in advance, maybe once at the beginning of his day, with option to cancel throughout the day rather than creating new hangouts throughout the day. ","I want to be able to do this once per day, and have free times set up as automatically as possible. I don't think I have time to actually do this multiple times a day",Customer Interview,,
+2015-02-16,"In Person Meeting with Student, Student, Kellogg","If someone is eating, they'd likely only want someone to join them if that person is also eating too, otherwise it's awkward. Is there a way to add some kind of restriction on meeting? (e.g., only meet up with me if you are willing to eat, drink, study in silence, etc.) ",What are we doing once we meet?,Customer Interview,,
+2015-02-13,"In Person Meeting with Shuan Yang, Graduate Student, Northwestern University","Would like to just text friends and group chatWould like to meet new friends who are nearby and available to hang out, such as meeting other programs' students",For close friends will just text them or group chat. But if this app can allow people to meet new friends that would be good.,Customer Interview,,
+2015-02-13,"In Person Meeting with Kevin Deng, Graduate Student, Northwestern University","It's good to have a map feature that you can see from the map where your friends are nearby and available to hang out with you, so you can decide which friends you are going to share your events.",It can be seen clearly from the map where your friends are nearby and available to hang out with you.,Customer Interview,,
+2015-02-15,"In Person Meeting with JV, Student, Northwestern",First impression:shows buildingsAssumes that the events start nowBrings up use case of studying,Event planning is confusing—how are we defining when things are occurring?,Customer Interview,Value Propositions,
+2015-02-15,"In Person Meeting with Avi, Student, Northwestern",First impression:These are eventsBrings up use case of finding meals between friendsUI feature of expanding circle is interesting,Wants a way to indicate they are free without creating an event,Customer Interview,Value Propositions,
+2015-02-15,"In Person Meeting with Agam, Student, Northwestern",First impression:&nbsp;this is taken from a calendar of classesQuestions about what the nature of the event will beFeels he would be likely to go meet with others,Was confused about long press to create event,Customer Interview,Value Propositions,
+2015-02-15,"In Person Meeting with Aiqi, Student, Northwestern",Notification made sense based off of colorAssumes that these are academic meetingPrimary use cases: eating and studying,"Notification is intuitive, primary use cases of academics and eating",Customer Interview,Value Propositions,
+2015-02-15,"In Person Meeting with Mike Han, Student, Northwestern","Assumes locations are where friends are at right nowGiven that the pins say ""time—time"" the pin should change or disappear after the time ends.Assumes that unless something is set the individual's location is not being shared.Expects to be able to enter an address to choose locationsLongpress is not intuitive","The non-dynamic appearances of pins intuitively indicates that the locations are not live.
+Green color indicates the validity of the pin.",Customer Interview,Value Propositions,
+2015-02-09,"Email with Chu, Graduate student, Northwestern University","Doesn't like if events end up no one responding and end up alone,so she prefers ask friends directly",Thinks the events might end up no one responding.,Customer Interview,,
+2015-02-10,Ketch Presentation 02/10/2015,https://drive.google.com/folderview?id=0BxDgcAjC_MXTfkJkX09tSC1RaWpkZVpyQXFHc3BoVV9kdGRfODU0Yy1Xbk9BTEFXTjRqM00&usp=sharing,,Team Presentation,,
+2015-02-09,"In Person Meeting with Stranger, Student, MBA","""can you be persuaded to do something else?""","Person is very concerned that someone he doesn't want to interact with will see the status, current display of the interface does not seem to guarantee him that only those he selects will see his status.",Customer Interview,,
+2015-02-09,"In Person Meeting with Gayatri, Student, MBA",WhatsApp also has a status bar that in theory is great but never gets used,"In her experience, people ten to update the status and then forget about it, and their plans change and their status still might say something different. How can we make sure people's update are truthful? What is the maximum number of hours we allow something to select per update?",Customer Interview,,
+2015-02-06,"In Person Meeting with Kate, MBA student, Kellogg","Interviewed Kate on Friday, she is overall positive about the app, she likes the scenario where she is sort of working and wouldn't mind being bothered, rather than someone who is completely free and just hanging around waiting for someone else to ""call her over""","If the person is available, does this mean she is interested in having someone come over only, or is she also interested in going somewhere else? Does ""free"" mean she is completely free, or that she is sort of working but don't mind being bothered?",Customer Interview,,
+2015-02-07,"In Person Meeting with Christian, Graduate Student, Northwestern University","If it takes only few steps to either create a “hangout invite” or join friends' events, would like to use it. Don't want to use too complicated apps.For selecting friends, if the app can sorted by the number of times that you invited some friends, and they did join you.","Would like to know who is available to hang out, and what they are doing",Customer Interview,,
+2015-02-07,"In Person Meeting with Weiting. L., Graduate Student, Northwestern University","Would like to hang out with friends but don't want to join friends' events that they created, want to discuss with friends first than see what they are going to do and where they are going to be, in this case, he doesn't know where should he drops the pin as a&nbsp;“hangout invite”.Don't like to choose ""how long"" the event is going to be, because sometimes not sure the specific time range.","Sometimes just want to hang out with friends but hasn't decided where to go, don't know where should he drop the pin",Customer Interview,,
+2015-02-07,"In Person Meeting with Tianyuan. Z., Graduate Student, Northwestern University","Don't want to reply to friends one by one if there are more than one friends want to join.If the number of friends who would like to join you is less than you expected, then the event can be canceled automatically.",Would like to have group chat function so that don't have to reply one by one if there are more than one friends want to join,Customer Interview,,
+2015-02-03,"Phone Call with K. Li, Undergrad Junior, Northeastern University",Thinks reliability is a huge factor in this and is only doubtful cause of consistency of the app to show free time.,"Initially was down to share calendar with friends, but then realized that it's not completely reliable whereas texting is completely reliable.",Customer Interview,,
+2015-02-03,"Phone Call with C.Lu, Undergrad Senior, Northwestern University",Tends to have a lot of free time as a senior who's done with recruitment,Would use a calendar sharing app ONLY if it was easy and automated to put in free time to do things such as coordinating haircuts and going to the gym,Customer Interview,,
+2015-02-03,"In Person Meeting with A. Yang, Undergrad Senior, Northwestern University",There's no need to adjust the current way of hanging out with people because it's relatively easy to do so via a simple text or call.Not too keen on sharing free schedule.,"Not keen on sharing calender/free time because things come up, and maybe he wants to sleep, grab a bite, or independently study. Values alone time more than social time.",Customer Interview,,
+2015-02-03,"In Person Meeting with E.Robison, Undergrad Junior, Northwestern University","Doesn't feel a need to change the way we hangout with people right now via messaging.Has 10-20 friends, 5-6 which are his closest friends.Would be comfortable sharing location with 5-6 of them (his closest friends).Generally has 2 hours of free time between classes.Considers himself to be in 6 friend circles.","Would define himself as an extrovert, so he feels comfortable hanging out with acquaintances and friends of friends to get to know them better without having to directly text or message them.",Customer Interview,,
+2015-01-22,"In Person Meeting with KLui, Undergrad Senior, Northwestern University","Things I learned were that people generally don't like to share their location, even with their closest friends.",Texting was a viable alternative for your closest friends.,Customer Interview,,
+2015-02-02,"In Person Meeting with Strangers * 3, Students, Northwestern University","
+For best friends will just text them, but for friends but not good enough, it will be a good way to know they want to hang out with you or not.Would be willing to share their class schedule to friends so that they can know each other's class schedule Thus, both you and your friends can know when you are available between classes.",Don’t know the schedules of friends and don’t want to bother friends by texting because they may be busy. Would like to know who is available to hang out with or just share their class schedules,Customer Interview,,
+2015-01-25,"In Person Meeting with Sophy. Z., Graduate student, Northwestern University","She wants to get to know more classmates, but she feel uncomfortable text them directly.Right now using text and wechat to communicate with friends.Willing to share location with others.",Wants to meet some classmates but feel uncomfortable text them directly.,Customer Interview,,
+2015-02-02,"In Person Meeting with Stranger, Undergraduate Student, Northwestern University","
+Usually just use normal group messages to hang out with friends.Mostly hang out with friends, but wouldn't mind to hang out with people who are not familiar with.",Wouldn't mind to hang out with people who are not familiar with,Customer Interview,,
+2015-01-25,"Email with Sue Ann. G., Undergraduate student, Northwestern University",Usually have 1-2 hours gap between classes.Will just text her friends to meet up.Doesn't feel inconvenient to message people.,"Willing to share location with all friends, but won't feel uncomfortable text them directly.",Customer Interview,,
+2015-02-03,"In Person Meeting with S.R., Student, Northwestern",The user believed that forcing interaction to take place outside of the app (via SMS) was far more difficult and unwelcome than in-app messaging.,Messaging that occurs in-app is more comfortable than SMS.,Customer Interview,Value Propositions,
+2015-02-02,"In Person Meeting with Strangers * 2, Undergraduate Student, Northwestern University","
+Sometimes there are too many groups that people don't check the notification.Would be good if there is a feature which we can choose to send invitations to those people who you want to hang out with.Would like to have&nbsp;groups&nbsp;feature.","People who you want to hang out with need to have the same app as well, if there is a feature which you can choose to send invitations to people that would be helpful",Customer Interview,,
+2015-02-01,"In Person Meeting with AS, Student, Kellogg",Will like more planned events. ,Will like to get invites from people I don't know. Could be a good way to meet new people I don't know well enough.,Customer Interview,,
+2015-02-01,"In Person Meeting with AJ, Student, Kellogg","Typically plan for going somewhere based on what I will be doing there. If I don't plan to meet anyone, I will quickly pick&nbsp; up coffee and come. But I can meet someone, I will need to plan for time accordingly. ",Unplanned visit are short so not enough time to contact people and wait for responses. Might plan differently if I knew that I could meet a friend there.,Customer Interview,,
+2015-01-31,"In Person Meeting with Strangers * 3, Students, Northwestern University","1.Would be great to get to know people who are not familiar
+with2.Would want to know how close the person is, and who can
+hang out with.3.Will be happy knowing that who wants to hang out with
+you, but may still hesitate to text that person.4.Would like to have group selection function","Even though would be happy to know someone wants to hang out with me, still may not want to text that person first",Customer Interview,,
+2015-01-23,"In Person Meeting with Tae. K., Undergraduate Student, Northwestern University","Don't think it's necessary to let friends track his location, or even track his friends' location.It's a pain point to schedule a meet up with friends since everyone's schedule is hard to remember.",Don't want to share his location to his friends,Customer Interview,,
+2015-01-23,"In Person Meeting with Zeyu. W., Undergraduate Student, Northwestern University",Don't know how to ask those people who are interesting but not really familiar with hanging out together.Satisfied with those mobile applications which are for social networking&nbsp;nowadays.,"Would like to hang out with interesting people but not familiar with, just don't know how to",Customer Interview,,
+2015-01-24,"Email with Peiyu. C, Graduate Student, Northwestern University","Will just call friends rather than text them because it's easier and faster for her to know the answer from friends.Wouldn't mind to meet new friends.If it’s not available for her to call friends but wants to get together with friends, she would just use apps, such as LINE or facebook. She doesn't want to use too many apps to ask friends.","Would like to meet new friends, especially those who have mutual friends with her",Customer Interview,,
+2015-01-23,"In Person Meeting with Wenjin. H, Graduate Student, Northwestern University","
+Don't feel comfortable to call friends often, tend to text friends or use APPs, like LINE or WeChat to hang out with friends.It would be great to plan ahead, don't want to waste time on waiting responses after arriving at the destination.Would like to know who are available to hang out with nearby.",Would like to text friends rather than call friends,Customer Interview,,
+2015-02-02,"In Person Meeting with M.M., Mr., Student",The interviewee feels information should only be accessible if the user seeks it as opposed to delivery via push notification. ,Push notifications are generally unnecessary and intrusive.,Customer Interview,Value Propositions,
+2015-02-02,"In Person Meeting with Stranger, Student, Kellogg",&gt; loves seeing that he is being invited to an event,"> I still feel shy to contact even after seeing myself being invited
+> If I am invited, am I suppose to chat with this person on facebook now, or am I suppose to actually meet up with this person? 
+> Definitely need facebook integration",Customer Interview,,
+2015-02-02,"In Person Meeting with ZE, Student, Kellogg",Overall positive and curious about this app,"** this really works when I want to hang out on a Thursday night but not sure who's free
+** I feel really good when someone I don't know well invites me to something
+**  there are many times when it looks like I am working on something on my computer in the lounge, but I am actually looking to talk to someone",Customer Interview,,
+2015-02-02,"In Person Meeting with KJ, Student, Kellogg","like the simplicity of the appnot sure if location is automatically selected as those near me, or notnot sure who to invite, I need a suggested friendship list","*** how are you going to get specific locations like Anderson hall? you're going to have to enter it manually... but maybe that is a good thing because it is your competitive advantage against someone like Google....
+** All invitations are different: depends on the context, time, and a variety of factors, how would I know that from a simple invitation of time/location alone?
+** I don't know who to invite, can you suggest a list of friends for me?",Customer Interview,,
+2015-02-02,"In Person Meeting with CK, Developer, Qualcomm","&gt; cautionary of inviting friends i don't know&gt; the order on the suggested friend list is confusing, should have those who are already inviting me on top&gt; 2 other apps you should look into(1) totally anonymous to facilitate friendships(2) app that facilitates meetings","not clear about the relationship between my invitation vs. being invited, automatically assumes a match must occur, or an acceptance of the invitation is needed in order for anything to be displayed on the home screen.",Customer Interview,,
+2015-02-02,"In Person Meeting with GS, Student, Kellogg","&gt; Confused on the event home page&gt; Confused on why I need to create an event if I can just see other people and then I don't need to create one anymore&gt; Not sure what I use this for, had to be told and explained",I'm not going to create one if I already see someone inviting me to something else.,Customer Interview,,
+2015-02-02,"Phone Call with YV, Developer, Microsoft",&gt; what if you want ANYONE to show up and you don't want to be selective???&gt; still shy to invite others,"** ""This is basically an app that allows you to share your free schedules"" **
+(1) Create a map, have a time bar at the bottom where when scrolling through time, the map dynamically changes to show various green dots of people free at various times on the map
+(2) Allow users to open up a specific location, and see people who are free at various times (down a list) within that specific location",Customer Interview,,
+2015-01-27,"In Person Meeting with B.P., Ms., Student","The interviewee brought up the value of selecting the recipients of messages for each individual interaction, à la Chrome, Snapchat",A mechanism that allows you to choose message recipients on a case-by-case basis is valuable.,Customer Interview,Value Propositions,
+2015-02-01,"In Person Meeting with Chiayun.W, Graduate student, Northwestern University",1. Would like to include grouping people and group chat features.2. Would like to include calender organizing feature.3. Like simple graphic icon.,Would like to have calendar organizing feature included.,Customer Interview,,
+2015-01-25,"Email with Joyce.S., Housewife, None",It's hard to know if everyone is free or not.,Would like to hangout with co-worker or boss but not comfortable with asking them directly.,Customer Interview,,
+2015-01-24,"Email with Andy.C., Graduate student, Northwestern University",Would like to hangout with mutual friends of friends.,Doesn't like to ask people and they don’t respond.,Customer Interview,,
+2015-01-24,"In Person Meeting with Thanet .A., Graduate student, Northwestern University","1.&nbsp;If he needs to select friends every time, he might just texting them.2.Sometimes he wants to hang out with some friends but not sure if his friends are free but doesn’t want to bother them by texting them.",Hope can view friends of friends in the app so that he can meet more people.,Customer Interview,,
+2015-01-23,"In Person Meeting with Jeff Kwong, Student, Kellogg","
+How many friends do you
+have? If you have down time, how many different people would you want to see
+and try to hang out with?
+100. At most 10, usually 6 or 7 at a time. 
+Is there a group of
+friends that you’d feel safe to automatically share your location with for most
+parts of the day? If so, how many?
+Yes. 20 – 30 friends
+If you
+have breaks during the middle of the day, how long do these breaks usually
+last?
+Very flexible with time right now as a student. 
+Are
+there people who you’d love to hang out with when you’re both free, but you
+don’t feel comfortable directly texting and ask? If yes, who are these people? 
+Ok with texting. But would be easier to see where they are.
+Would like to know if they are free to hang out. 
+Do all
+your friends hang out in one circle? If not, how many friend circles do you
+hang out in? 
+Different. 5-6 friend circles. ",Would be open to sharing location with close friends,Customer Interview,,
+2015-01-27,"In Person Meeting with Hiral Sanghavi, Student, Kellogg","
+How many friends do you
+have? If you have down time, how many different people would you want to see
+and try to hang out with?
+20. 4-5 ppl at a time. 
+Is there a group of
+friends that you’d feel safe to automatically share your location with for most
+parts of the day? If so, how many?
+No. Not even my wife. 
+If you
+have breaks during the middle of the day, how long do these breaks usually
+last?
+1 hour/break. Free time 3 hours per day. 
+Are
+there people who you’d love to hang out with when you’re both free, but you
+don’t feel comfortable directly texting and ask? If yes, who are these people? 
+Yes. With most of my friends. Usually use whatsapp instead of
+calling. Maybe even call close friends. If I know friends are free, I will
+call. But if they might be in office, I might msg. 
+Do all
+your friends hang out in one circle? If not, how many friend circles do you
+hang out in? 
+3 big groups (India, Kellogg, SFO). I like to broadcast plans
+and ask who can come. Only small groups
+if there are restrictions. Specific groups for activities – like groups for
+movies. Would like to broadcast to group based on activity interest. ",Not willing to share location,Customer Interview,,
+2015-01-23,"In Person Meeting with Ashish Tholia, Working Professional, TK","
+How many friends do you
+have? If you have down time, how many different people would you want to see
+and try to hang out with?5. 1 or 2 at a time. Is there a group of
+friends that you’d feel safe to automatically share your location with for most
+parts of the day? If so, how many?NoIf you
+have breaks during the middle of the day, how long do these breaks usually
+last?20 to 30 minsAre
+there people who you’d love to hang out with when you’re both free, but you
+don’t feel comfortable directly texting and ask? If yes, who are these people? MaybeDo all
+your friends hang out in one circle? If not, how many friend circles do you
+hang out in? 4 to 5 people. 3 friend circles.",Not willing to share location with anyone,Customer Interview,,
+2015-01-27,"In Person Meeting with H.W., Mr., Student","Before this interview I was under the impression that group messaging was not commonly used. From H.W. and his friends nearby, I found group messaging is a common way to schedule meetings. However, group messages often include members that many would rather not talk to and exclude the opposite.&nbsp;Additionally, when users do not respond to group messages or respond too frequently to group messages, animosity and confusion builds.",Group messaging is ubiquitous but clumsy.,Customer Interview,Value Propositions,
+2015-01-27,"In Person Meeting with A.S., Ms., Student",Before this interview I was under the impression that groups often met out of preparation.After this interview I found that A.S. had met the group she was working with while at Norris. The group snowballed as more friends stumbled upon them in person.,Groups are often formed out of happenstance.,Customer Interview,Value Propositions,
+2015-01-27,"In Person Meeting with F.S., Ms., Student","F.S. felt that, when trying to meet with close friends to go out, texting has to clear faults.","For interaction with close friends, texting it hard to replace.",Customer Interview,Value Propositions,
+2015-01-27,"In Person Meeting with S.H., Ms., Student","Before this interview I imagined meeting one another to eat would be a primary use case of the project.After this interview it became apparent that, as eating is a necessity and those who need to eat often don't want to wait, allowing users to view ahead of time&nbsp;if other uses are available to eat is the best way to coordinate meals.",Eating is often primarily utilitarian so the social aspect is often not prioritized.,Customer Interview,Value Propositions,
+2015-01-27,"In Person Meeting with E.H., Ms., Student","E.H. was meeting with two other students, all of whom had only met that day in class.&nbsp;While they were meeting originally to do work, their interaction was primarily social.",Students are willing to meet with people they do not know well for academic meetings.,Customer Interview,Customer Segments,
+2015-01-27,"In Person Meeting with S.K., Ms., Student","Before the interview it was my belief that spontaneity was valuable.&nbsp;Following this interview, I believe there should be discussion regarding a scheduling feature to determine availability ahead of time so users can determine activities (at least slightly) in advance.",Diverse schedules between students makes meeting up difficult.,Customer Interview,Value Propositions,
+2015-01-27,"In Person Meeting with M.L., Ms., Student","Before the interview, group messaging was seen as a likely alternative for users to organize events.The interview with M.H. confirms that, at least for M.H., group messaging is an invasive and imperfect tool.&nbsp;",Group messaging is not an ideal way to schedule events.,Customer Interview,Value Propositions,
+2015-01-27,"In Person Meeting with G.G., Ms., Student",This interview confirms the importance of interaction in choosing what to do with one's free time.&nbsp;It raises the question of how the product will be more valuable than a location where one can be sure to find a friend.,G.H. had a sort of social 'safety net' for interaction. If she couldn't find any friends at the student center she would return to the music building where she knew she could find friends.,Customer Interview,Value Propositions,
+2015-01-27,"In Person Meeting with R.H., Mr., Student",This interview confirmed the importance of interaction in the scheduling and activity of a student's everyday life.,R.H. would explore his environment for acquaintances before either returning to do work or eating in private.,Customer Interview,Value Propositions,
+2015-01-18,"Video Chat with A.T., Ms., Student","Before the meeting I anticipated the key use case for the product would be social. After speaking with A.T. I found that, within classes and academic groups, meetups to work over a problem set are hugely valuable to students.Moving forward I think it's valuable to assess what kind of groups are meeting and the best way to address the needs of that group type.After speaking with A.T. I found that sororities represent a close-knit social structure, a sort of 'social net' that coincides with the product. To have a group of friends whose company is always welcome but less often inquired after presents the need for a tool to discover those interactions.","Students at universities often meet classmates they don't know well for homework.
+Sororities embody the type of close-knit social structure where the product would be ideal.",Customer Interview,Customer Segments,
